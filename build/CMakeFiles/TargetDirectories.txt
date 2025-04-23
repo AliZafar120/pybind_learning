@@ -1,0 +1,5 @@
+/bigtemp/mzw2cu/pybind_test/build/CMakeFiles/example.dir
+/bigtemp/mzw2cu/pybind_test/build/CMakeFiles/edit_cache.dir
+/bigtemp/mzw2cu/pybind_test/build/CMakeFiles/rebuild_cache.dir
+/bigtemp/mzw2cu/pybind_test/build/pybind11/CMakeFiles/edit_cache.dir
+/bigtemp/mzw2cu/pybind_test/build/pybind11/CMakeFiles/rebuild_cache.dir

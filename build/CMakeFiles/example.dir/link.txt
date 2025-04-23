@@ -1,0 +1,1 @@
+/sw/ubuntu2204/ebu082024/software/common/core/gcccore/12.2.0/bin/c++ -fPIC -flto -shared  -o example.cpython-311-x86_64-linux-gnu.so CMakeFiles/example.dir/src/test.cpp.o 

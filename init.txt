@@ -1,0 +1,13 @@
+module load  gcccore/12.2.0
+module load cmake/3.24.3
+
+ git clone https://github.com/pybind/pybind11.git
+add cmakelist.txt
+ mkdir build
+ cd build
+ cmake ..
+ make
+
+
+inside build 
+import example
