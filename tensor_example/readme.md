@@ -129,3 +129,8 @@ This file demonstrates how to use the tensor operations extension:
    - **Hardware Adaptation**: Same Python code works on both CPU and GPU
 
 This system demonstrates how to create high-performance tensor operations that integrate seamlessly with PyTorch while leveraging C++ and CUDA for speed when available. The builder pattern abstracts away the complexity of compilation and hardware detection, giving you a clean interface for extending PyTorch with custom operations.
+
+<!---
+your comment goes here
+and here
+-->
