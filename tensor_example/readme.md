@@ -16,8 +16,7 @@ conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1  pytorch-cuda
   597  python example.py 
 
 
-  I'll explain each file in the PyBind11 tensor operations example to help you understand how everything works together.
-
+  
 ## 1. builder.py
 
 This file implements the builder system using Abstract Base Classes (ABC) and contains three main classes:
